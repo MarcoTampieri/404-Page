@@ -1,0 +1,34 @@
+body {
+    background-image: url(background.jpg);
+    padding: 0%;
+}
+
+img {
+    position: relative;
+    left: 34%;
+    margin-top: 60px;
+    border-radius: 4px;
+}
+        
+
+h1 {
+    font-size: 75px;
+    color: ivory; 
+    text-align: center;
+    margin-bottom: 0%;
+   }
+
+h2 {
+    color: ivory;
+    text-align: center;
+}
+
+p {
+   color:  ivory;
+   text-align: center;
+}
+
+h4 {
+    color: green;
+    text-align: center;
+}
